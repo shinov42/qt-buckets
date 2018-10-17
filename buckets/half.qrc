@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pictures/Full.png</file>
+        <file>pictures/half.png</file>
+        <file>pictures/eightTenth.png</file>
+        <file>pictures/fourTenth.png</file>
+        <file>pictures/nineTenth.png</file>
+        <file>pictures/oneTenth.png</file>
+        <file>pictures/sevenTenth.png</file>
+        <file>pictures/sixTenth.png</file>
+        <file>pictures/threeTenth.png</file>
+        <file>pictures/twoTenth.png</file>
+    </qresource>
+</RCC>
